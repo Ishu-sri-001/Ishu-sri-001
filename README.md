@@ -17,7 +17,13 @@
 ## LANGUAGES & TOOLS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,bootstrap,codepen,html,css,js,discord,py,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,bootstrap" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,discord,py,vscode," />
   </a>
 </p>
 
