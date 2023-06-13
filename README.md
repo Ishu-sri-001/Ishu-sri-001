@@ -29,7 +29,7 @@
 
 <br>
 
-<h3 align="left">⭐ Connect with me on social media 📲 </h3>
+
 
 
 ## Connect with me  
@@ -47,10 +47,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
+
+<br>
      
 # Productivity Stats📈:
 <a href="https://github.com/Ishu-sri-001/github-readme-activity-graph"><img alt="Ishu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishu-sri-001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+ 
+<br>
 
 ## 📊 GitHub Activity
 | ![Ishita github stats](https://github-readme-stats.vercel.app/api?username=Ishu-sri-001&show_icons=true&theme=highcontrast) | ![Ishita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishu-sri-001&theme=highcontrast)                                                                                                           |
