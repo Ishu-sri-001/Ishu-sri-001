@@ -12,7 +12,6 @@
 
 📄 Know about my experiences https://www.linkedin.com/in/ishita-srivastav-342063235/
 
-<br>
 
 ## LANGUAGES & TOOLS
 <p align="left">
