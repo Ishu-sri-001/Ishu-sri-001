@@ -12,17 +12,18 @@
 
 📄 Know about my experiences https://www.linkedin.com/in/ishita-srivastav-342063235/
 
+<br>
 
 ## LANGUAGES & TOOLS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,discord,py,vscode," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap" />
   </a>
 </p>
 
