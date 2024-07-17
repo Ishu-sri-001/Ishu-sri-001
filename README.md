@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Ishu-sri-001&color=0e75b6)
-<img align="right" src="https://c.tenor.com/C13jJDKZYcIAAAAC/tenor.gif">
+<img align="" src="https://c.tenor.com/C13jJDKZYcIAAAAC/tenor.gif">
 
 🌱 I’m currently learning DSA in C++ and NodeJS
 
