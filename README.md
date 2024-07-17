@@ -12,10 +12,9 @@
 
 📄 Know about my experiences https://www.linkedin.com/in/ishita-srivastav-342063235/
 
-<br>
 
 ## LANGUAGES & TOOLS
-<p align="right">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java" />
   </a>
