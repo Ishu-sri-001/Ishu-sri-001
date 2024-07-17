@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Ishu-sri-001&color=0e75b6)
-<img align="right" src="https://c.tenor.com/C13jJDKZYcIAAAAC/tenor.gif">
+<img align="right" src="https://c.tenor.com/C13jJDKZYcIAAAAC/tenor.gif" style="z-index: 1; position: relative;">
 <ul>
    <li>Front End Engineer with hands-on experience in JavaScript, React, Node.js, and Python</li>
     <li>Strong understanding of web development principles and database management with MySQL and MongoDB.</li>
