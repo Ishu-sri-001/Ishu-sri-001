@@ -18,12 +18,6 @@
 <p><b>Databases</b> - MySQL, MongoDB, PostgreSQL, Firebase</p>
 <p><b>Other</b> -  NodeJS, Linux, Github, Version Control ( Git )</p>
 
-## LANGUAGES & TOOLS
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java" />
-  </a>
-</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
