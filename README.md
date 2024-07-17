@@ -1,16 +1,15 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Heyo, Ishita Srivastav</h1>
+<h1 align="center"> Heyo, Ishita Srivastav</h1>
 <h3 align="center"></h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Ishu-sri-001&color=0e75b6)
 <img align="right" src="https://c.tenor.com/C13jJDKZYcIAAAAC/tenor.gif">
+<ul>
+   <li>Full Stack Engineer with hands-on experience in JavaScript, React, Node.js, and Python</li>
+    <li>Strong understanding of web development principles and database management with MySQL and MongoDB.</li>
+    <li>Quick learner with a passion for coding and problem-solving</li>
+    <li>Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.</li>
+</ul>
 
-🌱 I’m currently learning DSA in C++ and NodeJS
-
-💬 Ask me about Java, Javascript and NodeJS
-
-📫 How to reach me ishita.sri001@gmail.com
-
-📄 Know about my experiences https://www.linkedin.com/in/ishita-srivastav-342063235/
 <br>
 
 
