@@ -50,10 +50,6 @@
 
 <br>
      
-# Productivity Stats📈:
-<a href="https://github.com/Ishu-sri-001/github-readme-activity-graph"><img alt="Ishu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishu-sri-001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- 
-<br>
 
 ## 📊 GitHub Activity
 | ![Ishita github stats](https://github-readme-stats.vercel.app/api?username=Ishu-sri-001&show_icons=true&theme=highcontrast) | ![Ishita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishu-sri-001&theme=highcontrast)                                                                                                           |
