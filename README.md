@@ -4,7 +4,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=Ishu-sri-001&color=0e75b6)
 <img align="right" src="https://c.tenor.com/C13jJDKZYcIAAAAC/tenor.gif">
 <ul>
-   <li>Full Stack Engineer with hands-on experience in JavaScript, React, Node.js, and Python</li>
+   <li>Front End Engineer with hands-on experience in JavaScript, React, Node.js, and Python</li>
     <li>Strong understanding of web development principles and database management with MySQL and MongoDB.</li>
     <li>Quick learner with a passion for coding and problem-solving</li>
     <li>Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.</li>
@@ -12,6 +12,11 @@
 
 <br>
 
+## Skills
+<p><b>Languages</b> - C, CPP, Python, Java, JavaScript</p>
+<p><b>Frameworks</b> and Libraries - ReactJS, ExpressJS, Tailwind CSS, Bootstrap, JQuery</p>
+<p><b>Databases</b> - MySQL, MongoDB, PostgreSQL, Firebase</p>
+<p><b>Other</b> -  NodeJS, Linux, Github, Version Control ( Git )</p>
 
 ## LANGUAGES & TOOLS
 <p align="left">
