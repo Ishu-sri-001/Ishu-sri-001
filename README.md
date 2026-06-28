@@ -1,67 +1,154 @@
-<h1 align="center"> Heyo, Ishita Srivastav</h1>
-<h3 align="center"></h3>
+<h1 align="center">Hi 👋, I'm Ishita Srivastav</h1>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=Ishu-sri-001&color=0e75b6)
-<img align="right" src="https://c.tenor.com/C13jJDKZYcIAAAAC/tenor.gif" style="z-index: 1; position: relative;">
-<ul>
-   <li>Front End Engineer with hands-on experience in JavaScript, React, Node.js, and Python</li>
-    <li>Strong understanding of web development principles and database management with MySQL and MongoDB.</li>
-    <li>Quick learner with a passion for coding and problem-solving</li>
-    <li>Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.</li>
-</ul>
+<h3 align="center">
+Creative Frontend Developer • Next.js • GSAP • Three.js • React Three Fiber
+</h3>
 
-<br>
-
-## Skills
-<p><b>Languages</b> - C, CPP, Python, Java, JavaScript</p>
-<p><b>Frameworks</b> and Libraries - ReactJS, ExpressJS, Tailwind CSS, Bootstrap, JQuery</p>
-<p><b>Databases</b> - MySQL, MongoDB, PostgreSQL, Firebase</p>
-<p><b>Other</b> -  NodeJS, Linux, Github, Version Control ( Git )</p>
-
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap" />
-  </a>
+<p align="center">
+Building immersive, interactive web experiences with modern frontend technologies.
 </p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishu-sri-001&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
+## 🚀 About Me
 
+<img align="right" width="220" src="https://media.tenor.com/C13jJDKZYcIAAAAC/nezuko-kamado.gif"/>
 
+- 💻 Frontend Developer with **1+ year of experience**
+- ⚡ Specialized in **Next.js, React.js, TypeScript, GSAP, Three.js, React Three Fiber, WebGL & HTML Canvas**
+- 🎨 Passionate about crafting immersive web experiences and creative UI animations
+- 🌱 Currently learning **Shaders, GLSL & Advanced React Three Fiber**
+- 🚀 Always exploring new technologies and pushing creative boundaries
+- 🎌 Anime enthusiast who enjoys coding with coffee and anime OSTs
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Ishu-sri-001" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<br clear="right"/>
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql" />
+</p>
+
+### Creative Development
+
+<p>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js"/>
+<img src="https://img.shields.io/badge/React%20Three%20Fiber-20232A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML%20Canvas-E34F26?style=for-the-badge"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+</p>
+
+## 🚀 Featured Projects
+
+### 🌿 [TrueKind](https://truekind-pi.vercel.app/)
+
+Premium skincare landing page built with **Next.js, Tailwind CSS, GSAP & Swiper.js**, featuring immersive animations, smooth scrolling and responsive design.
+
+---
+
+### 🎉 [iVentions](https://iventions.vercel.app/)
+
+Modern event website built with **Next.js, Tailwind CSS & GSAP**, showcasing creative interactions and polished animations.
+
+---
+
+### 🛍 [ChicCart](https://chic-cart.netlify.app/)
+
+Responsive e-commerce application built with **React.js, JavaScript & Tailwind CSS**, featuring shopping cart functionality and a clean UI.
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishu-sri-001&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishu-sri-001&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishu-sri-001&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🎮 Player Stats
+
+```yaml
+👤 Name: Ishita Srivastav
+💼 Class: Creative Frontend Developer
+⭐ Experience: 1+ Years
+
+⚔️ Main Skills
+  • Next.js
+  • GSAP
+  • Three.js
+  • React Three Fiber
+
+🎯 Current Quest
+  • Master WebGL
+  • Learn GLSL
+  • Build immersive web experiences
+
+☕ Buffs
+  • Coffee
+  • Music
+  • Anime
+
+🎌 Favorite Anime
+  • Black Clover
+  • Demon Slayer
+  • Attack on Titan
+
+✨ Motto
+  Creating experiences, not just websites.
+```
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Ishu-sri-001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://twitter.com/Ishitaa_x" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://www.linkedin.com/in/ishita-srivastav-342063235/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17930806/mr-aman-yadav" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a> -->
-<a href="https://www.linkedin.com/in/ishita-srivastav-342063235/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+<a href="https://twitter.com/Ishitaa_x">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-</div>  
 
-<br>
-     
+</p>
 
-## 📊 GitHub Activity
-| ![Ishita github stats](https://github-readme-stats.vercel.app/api?username=Ishu-sri-001&show_icons=true&theme=highcontrast) | ![Ishita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishu-sri-001&theme=highcontrast)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishu-sri-001&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ishu-sri-001&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
+<p align="center">
+<i>"Building experiences that people remember."</i>
+</p>
 
-
-## 📚 My Education Status
-
-
-<h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
-<h4>🏆 12th from St Joseph, Greater Noida </h4>
-
-
-<img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E2DE2&height=120&section=footer"/>
+</p>
